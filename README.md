@@ -1,16 +1,27 @@
-## Hi there 👋
+### Olá, eu sou a Vitória! 👋
 
-<!--
-**iamvitoria/iamvitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnica em Informática pelo IFSul Venâncio Aires | Graduanda em Sistemas de Informação na UFSM  
+💻 Apaixonada por tecnologia, programação e administração  
+🚀 Em busca de um estágio na área de programação  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
+- 💻 **Linguagens:** Python, JavaScript, Java
+- 🌐 **Front-end:** HTML, CSS, React
+- 🛠 **Back-end:** Node.js
+- 📦 **Banco de Dados:** MySQL
+- 🔧 **Ferramentas:** GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+🔹 [Projeto 1 - Livro fora da estante](https://github.com/iamvitoria/Troca-de-Livros.git) – Software de troca de livros online
+
+🔹 [Projeto 2 - Cardápio do RU](https://github.com/iamvitoria/Cardapio-do-RU.git) – Software de agendamento de refeições do Restaurante Universitário da UFSM
+
+## 📫 Como me encontrar
+📧 Email: vitorialu52@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/vitoriacamara
+
+💻 Portfólio:   
+
+---
+⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela nos repositórios! 😊
