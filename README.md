@@ -9,7 +9,7 @@
 - 🌐 **Front-end:** HTML, CSS, React
 - 🛠 **Back-end:** Node.js
 - 📦 **Banco de Dados:** MySQL
-- 🔧 **Ferramentas:** GitHub
+- 🔧 **Ferramentas:** GitHub, VSCode 
 
 ## 📌 Projetos em Destaque
 🔹 [Projeto 1 - Livro fora da estante](https://github.com/iamvitoria/Troca-de-Livros.git) – Software de troca de livros online
@@ -21,7 +21,7 @@
 
 🔗 LinkedIn: www.linkedin.com/in/vitoriacamara
 
-💻 Portfólio:   
+💻 Portfólio: https://iamvitoria.github.io/Portfolio/
 
 ---
 ⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela nos repositórios! 😊
