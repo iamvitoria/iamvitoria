@@ -16,6 +16,9 @@
 
 🔹 [Projeto 2 - Cardápio do RU](https://github.com/iamvitoria/Cardapio-do-RU.git) – Software de agendamento de refeições do Restaurante Universitário da UFSM
 
+🔹 [Projeto 3 - Sistema de Tarefas](https://github.com/iamvitoria/Sistema-de-Tarefas.git) – Software simples de adição, exclusão e alteração de tarefas
+
+
 ## 📫 Como me encontrar
 📧 Email: vitorialu52@gmail.com
 
