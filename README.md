@@ -5,9 +5,8 @@
 🚀 Em busca de um estágio na área de programação  
 
 ## 🔧 Tecnologias e Ferramentas
-- 💻 **Linguagens:** Python, JavaScript, Java
-- 🌐 **Front-end:** HTML, CSS, React
-- 🛠 **Back-end:** Node.js
+- 🌐 **Front-end:** HTML, CSS, JavaScript
+- 🛠 **Back-end:** Java, Python, PHP
 - 📦 **Banco de Dados:** MySQL
 - 🔧 **Ferramentas:** GitHub, VSCode 
 
