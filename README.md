@@ -1,8 +1,8 @@
 ### Olá, eu sou a Vitória! 👋
 
 🎓 Técnica em Informática pelo IFSul Venâncio Aires | Graduanda em Sistemas de Informação na UFSM  
-💻 Apaixonada por tecnologia, programação e administração  
-🚀 Em busca de um estágio na área de programação  
+💻 Apaixonada por tecnologia, programação e design  
+🚀 Em busca de um estágio na área de programação, preferencialmente Frontend  
 
 ## 🔧 Tecnologias e Ferramentas
 - 🌐 **Front-end:** HTML, CSS, JavaScript
@@ -21,9 +21,9 @@
 ## 📫 Como me encontrar
 📧 Email: vitorialu52@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/vitoriacamara
+🔗 LinkedIn: [www.linkedin.com/in/vitoriacamara](https://www.linkedin.com/in/vitoriacamara/)
 
-💻 Portfólio: https://iamvitoria.github.io/Portfolio/
+💻 Portfólio: [https://iamvitoria.github.io/Portfolio/](https://iamvitoria.github.io/Portfolio/)
 
 ---
 ⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela nos repositórios! 😊
