@@ -4,7 +4,6 @@
 
 Desenvolvedora • Estudante de Sistemas de Informação • Apaixonada por tecnologia 💻✨  
 
-<details>
 <summary><strong>📊 Minhas estatísticas no GitHub</strong></summary><br>
 
 <div align="center">
@@ -14,8 +13,6 @@ Desenvolvedora • Estudante de Sistemas de Informação • Apaixonada por tecn
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvitoria&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
-
-</details>
 
 ---
 
