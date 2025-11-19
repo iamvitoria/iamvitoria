@@ -1,5 +1,3 @@
-<img src="https://github.com/iamvitoria.png" width="100px" align="left" />
-
 ## Oii! Eu sou a Vitória 👋
 
 Desenvolvedora • Estudante de Sistemas de Informação • Apaixonada por tecnologia 💻✨  
