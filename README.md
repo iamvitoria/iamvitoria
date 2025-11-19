@@ -39,8 +39,3 @@ Desenvolvedora • Estudante de Sistemas de Informação • Apaixonada por tecn
 </div>
 
 ---
-
-### ⌛ Histórico de Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/iamvitoria/iamvitoria/output/github-contribution-grid-snake.svg)
-
