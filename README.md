@@ -2,7 +2,7 @@
 
 Desenvolvedora • Estudante de Sistemas de Informação • Apaixonada por tecnologia 💻✨  
 
-<summary><strong>📊 Minhas estatísticas no GitHub</strong></summary><br>
+## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
   
